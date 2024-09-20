@@ -14,7 +14,7 @@ Detection and Response Homelab
   - pfsense
   - splunk
   - security onion
-# Technial Skills
+### Technial Skills
   -Programming languages : python, SQL, Bash, PowerShell,C++
   - SOAR, SEIM, MS AZURE, GDP
 
